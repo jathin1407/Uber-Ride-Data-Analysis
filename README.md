@@ -12,7 +12,7 @@ This project aims to analyze Uber ride data to understand ride usage patterns ac
 ## Analysis Steps
 
 ### 1. Importing Libraries
-- Used `pandas` for data manipulation, `numpy` for numerical operations, and `matplotlib.pyplot` & `seaborn` for data visualization.
+- Used `pandas` for data manipulation and `matplotlib.pyplot` for data visualization.
 
 ### 2. Loading the Dataset
 - Loaded the Uber dataset from a CSV file and displayed the first 10 rows to understand its structure.
@@ -38,14 +38,11 @@ This project aims to analyze Uber ride data to understand ride usage patterns ac
 - Created a new column `RTRIP` to identify round trips where `START*` and `STOP*` locations match.
 
 ### 9. Visualizing the Data
-- Used Python visualizations (matplotlib & seaborn) to analyze ride distribution trends:
-  - **Heatmaps** for correlation analysis
+- Used Python visualizations (matplotlib) to analyze ride distribution trends:
   - **Bar charts** for categorical data comparisons
-  - **Line plots** for trends over time
-  - **Histograms** for ride duration distribution
-
+ 
 ### 10. Saving Cleaned Data
-- Saved the cleaned and processed dataset to `UberDatasetCleaned.csv`.
+- Saved the cleaned and processed dataset to `Uber_Cleaned.csv`.
 
 ## Dashboard Insights
 
