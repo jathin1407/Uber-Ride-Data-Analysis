@@ -3,11 +3,6 @@
 ## Project Overview
 This project aims to analyze Uber ride data to understand ride usage patterns across various categories, purposes, months, days, and times. The analysis is visualized through dashboards and Python visualizations to provide insights that can help make data-driven decisions.
 
-## Files in the Project
-- **UberDataset.csv**: The original dataset containing raw Uber ride data.
-- **UberDatasetCleaned.csv**: The cleaned dataset after preprocessing.
-- **Dashboard.png**: An image file showing the dashboard with analysis results.
-- **Uber_Rides_Data_Analysis_Documentation_and_Recommendations.docx**: A document detailing analysis steps and recommendations.
 
 ## Analysis Steps
 
